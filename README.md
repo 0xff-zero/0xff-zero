@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## 随笔
-[毕业8年，新工作，我选择了WLB！！！](http://)
+[毕业8年，新工作，我依然选择了兴趣+工作](http://)
 
 ## 技术
 
